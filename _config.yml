@@ -21,24 +21,24 @@ redcarpet:
   ]
 
 
-
+gems: [jekyll-paginate]
 paginate: 10
 paginate_path: ":num"
 baseurl: ""
 
 
 
-title: "RainyAlley"
-email: "dubuyuye@yeah.net"
+title: "LengErrong"
+email: "errong.leng@gmail.com"
 description: "Developer"
-github_username:  "dubuyuye"
+github_username:  "lengerrong"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
-disqus_shortname: "rainyalley"
+disqus_shortname: "lengerrong"
 
 
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
+url: "http://blog.lengerrong.com"
+imgrepo: "http://blog.lengerrong.com/static/img"
+
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
-
