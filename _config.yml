@@ -37,8 +37,12 @@ disqus_shortname: "lengerrong"
 
 
 
-url: "http://blog.lengerrong.com"
-imgrepo: "http://blog.lengerrong.com/static/img"
+
+url: "http://lengerrong.github.io"
+imgrepo: "http://lengerrong.github.io/static/img"
+
+#url: "http://blog.lengerrong.com"
+#imgrepo: "http://blog.lengerrong.com/static/img"
 
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
